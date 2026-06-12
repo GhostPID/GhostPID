@@ -22,9 +22,9 @@
 `🎮 Gameplay` · `✂️ Video Editing` · `📝 Writing` · `🧠 User Psychology` · `⚙️ Behavioral Design`
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KawtherAlmuslimawi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KawtherAlmuslimawi&theme=dark&hide_border=false&layout=compact)
-![](https://streak-stats.demolab.com/?user=KawtherAlmuslimawi&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=GhostPID&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostPID&theme=dark&hide_border=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=GhostPID&theme=dark&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
