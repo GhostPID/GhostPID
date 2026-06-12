@@ -19,7 +19,7 @@
 ## 🎮 Interests
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-`🎮 Gameplay` · `✂️ Video Editing` · `📝 Writing` · `🧠 User Psychology` · `⚙️ Behavioral Design`
+##`🎮 Gameplay` · `✂️ Video Editing` · `📝 Writing` · `🧠 User Psychology` · `⚙️ Behavioral Design`
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GhostPID&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
